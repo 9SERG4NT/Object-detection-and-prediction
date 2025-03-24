@@ -1,7 +1,9 @@
 IoT and Deep Learning-Based Object Detection System
 
 🚀 Overview
+
 This project implements an IoT-integrated Deep Learning system for real-time object detection and autonomous vehicle decision-making. The system predicts:
+
 ✅ Stopping Time
 ✅ Object Position
 ✅ Recommended Vehicle Actions (Accelerate, Decelerate, Stop)
